@@ -1,0 +1,12 @@
+#manager_name,manager_email_domain,max_sal_of_employees_under_manager,min_sal_of_employees_under_manager,avg_sal_of_employees_under_manager,load_date
+Michael Hartstein,sqltutorial.org,17000,6200,10450,11/17/2024 17:31:26
+Shelley Higgins,sqltutorial.org,12000,4400,8980,11/17/2024 17:31:26
+Alexander Hunold,sqltutorial.org,9000,9000,9000,11/17/2024 17:31:26
+Diana Lorentz,sqltutorial.org,6000,4200,4950,11/17/2024 17:31:26
+Luis Popp,sqltutorial.org,9000,6900,7920,11/17/2024 17:31:26
+Karen Colmenares,sqltutorial.org,3100,2500,2780,11/17/2024 17:31:26
+Irene Mikkilineni,sqltutorial.org,2700,2700,2700,11/17/2024 17:31:26
+Britney Everett,sqltutorial.org,4000,3900,3950,11/17/2024 17:31:26
+Pat Fay,sqltutorial.org,6000,6000,6000,11/17/2024 17:31:26
+William Gietz,sqltutorial.org,8300,8300,8300,11/17/2024 17:31:26
+Steven King,sqltutorial.org,24000,24000,24000,11/17/2024 17:31:26

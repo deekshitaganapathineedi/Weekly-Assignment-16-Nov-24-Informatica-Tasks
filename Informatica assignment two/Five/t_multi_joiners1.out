@@ -1,0 +1,41 @@
+#emp_id,emp_name,dept_name,location_id,city,country,region,job_id,job_title
+203,Susan Mavris,Human Resources,2400,London,United Kingdom,Europe,8,Human Resources Representative
+145,John Russell,Sales,2500,Oxford,United Kingdom,Europe,15,Sales Manager
+146,Karen Partners,Sales,2500,Oxford,United Kingdom,Europe,15,Sales Manager
+176,Jonathon Taylor,Sales,2500,Oxford,United Kingdom,Europe,16,Sales Representative
+177,Jack Livingston,Sales,2500,Oxford,United Kingdom,Europe,16,Sales Representative
+178,Kimberely Grant,Sales,2500,Oxford,United Kingdom,Europe,16,Sales Representative
+179,Charles Johnson,Sales,2500,Oxford,United Kingdom,Europe,16,Sales Representative
+204,Hermann Baer,Public Relations,2700,Munich,Germany,Europe,12,Public Relations Representative
+103,Alexander Hunold,IT,1400,Southlake,United States of America,Americas,9,Programmer
+104,Bruce Ernst,IT,1400,Southlake,United States of America,Americas,9,Programmer
+105,David Austin,IT,1400,Southlake,United States of America,Americas,9,Programmer
+106,Valli Pataballa,IT,1400,Southlake,United States of America,Americas,9,Programmer
+107,Diana Lorentz,IT,1400,Southlake,United States of America,Americas,9,Programmer
+120,Matthew Weiss,Shipping,1500,South San Francisco,United States of America,Americas,19,Stock Manager
+121,Adam Fripp,Shipping,1500,South San Francisco,United States of America,Americas,19,Stock Manager
+122,Payam Kaufling,Shipping,1500,South San Francisco,United States of America,Americas,19,Stock Manager
+123,Shanta Vollman,Shipping,1500,South San Francisco,United States of America,Americas,19,Stock Manager
+126,Irene Mikkilineni,Shipping,1500,South San Francisco,United States of America,Americas,18,Stock Clerk
+192,Sarah Bell,Shipping,1500,South San Francisco,United States of America,Americas,17,Shipping Clerk
+193,Britney Everett,Shipping,1500,South San Francisco,United States of America,Americas,17,Shipping Clerk
+205,Shelley Higgins,Accounting,1700,Seattle,United States of America,Americas,2,Accounting Manager
+206,William Gietz,Accounting,1700,Seattle,United States of America,Americas,1,Public Accountant
+108,Nancy Greenberg,Finance,1700,Seattle,United States of America,Americas,7,Finance Manager
+109,Daniel Faviet,Finance,1700,Seattle,United States of America,Americas,6,Accountant
+110,John Chen,Finance,1700,Seattle,United States of America,Americas,6,Accountant
+111,Ismael Sciarra,Finance,1700,Seattle,United States of America,Americas,6,Accountant
+112,Jose Manuel Urman,Finance,1700,Seattle,United States of America,Americas,6,Accountant
+113,Luis Popp,Finance,1700,Seattle,United States of America,Americas,6,Accountant
+100,Steven King,Executive,1700,Seattle,United States of America,Americas,4,President
+101,Neena Kochhar,Executive,1700,Seattle,United States of America,Americas,5,Administration Vice President
+102,Lex De Haan,Executive,1700,Seattle,United States of America,Americas,5,Administration Vice President
+114,Den Raphaely,Purchasing,1700,Seattle,United States of America,Americas,14,Purchasing Manager
+115,Alexander Khoo,Purchasing,1700,Seattle,United States of America,Americas,13,Purchasing Clerk
+116,Shelli Baida,Purchasing,1700,Seattle,United States of America,Americas,13,Purchasing Clerk
+117,Sigal Tobias,Purchasing,1700,Seattle,United States of America,Americas,13,Purchasing Clerk
+118,Guy Himuro,Purchasing,1700,Seattle,United States of America,Americas,13,Purchasing Clerk
+119,Karen Colmenares,Purchasing,1700,Seattle,United States of America,Americas,13,Purchasing Clerk
+200,Jennifer Whalen,Administration,1700,Seattle,United States of America,Americas,3,Administration Assistant
+201,Michael Hartstein,Marketing,1800,Toronto,Canada,Americas,10,Marketing Manager
+202,Pat Fay,Marketing,1800,Toronto,Canada,Americas,11,Marketing Representative
